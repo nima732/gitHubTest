@@ -4,5 +4,8 @@ public class MainClass {
 		System.out.println("ooookkkkoooooooo");
 		System.out.println("ooookkkkoooooooo");
 		System.out.println("ooookkkkoooooooo");
+		System.out.println("nimaaaaaaaaaaa");
+		System.out.println("nimaaaaaaaaaaa");
+		System.out.println("nimaaaaaaaaaaa");
 	}
 }
