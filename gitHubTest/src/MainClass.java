@@ -7,5 +7,6 @@ public class MainClass {
 		System.out.println("nimaaaaaaaaaaa");
 		System.out.println("nimaaaaaaaaaaa");
 		System.out.println("nimaaaa444446aaaaaaa");
+		System.out.println("khode nima");
 	}
 }
